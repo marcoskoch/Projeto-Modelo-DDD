@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.Infra.Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.Application", "ProjetoModeloDDD.Application\ProjetoModeloDDD.Application.csproj", "{F64B885C-06D7-40F3-AA8C-5611A85098B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.Services", "ProjetoModeloDDD.Services\ProjetoModeloDDD.Services.csproj", "{CFDDA0EE-8448-4A1F-A4E8-88617BF4164B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{F64B885C-06D7-40F3-AA8C-5611A85098B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F64B885C-06D7-40F3-AA8C-5611A85098B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F64B885C-06D7-40F3-AA8C-5611A85098B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDDA0EE-8448-4A1F-A4E8-88617BF4164B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDDA0EE-8448-4A1F-A4E8-88617BF4164B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDDA0EE-8448-4A1F-A4E8-88617BF4164B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDDA0EE-8448-4A1F-A4E8-88617BF4164B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +64,6 @@ Global
 		{427F5368-7416-42F7-AF15-0DA0744E0B2E} = {3C2BB1B4-9523-4644-9BC5-C9A246487031}
 		{DCEDE9D3-DDF4-41C7-B0A7-E1763AD2CB28} = {EB81F240-FB19-4A37-829A-53F008E0B036}
 		{F64B885C-06D7-40F3-AA8C-5611A85098B7} = {2E7F1E81-A70F-46E9-A9CF-EE5972BA7DA7}
+		{CFDDA0EE-8448-4A1F-A4E8-88617BF4164B} = {8A4FFB33-A96A-49FF-A21A-6E83825E8880}
 	EndGlobalSection
 EndGlobal
